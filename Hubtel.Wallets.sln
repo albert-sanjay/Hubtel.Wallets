@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubtel.Wallets.Api", "Hubtel.Wallets.Api\Hubtel.Wallets.Api.csproj", "{79FC181F-D5A0-4FAC-B23B-A7ACFE686B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FC181F-D5A0-4FAC-B23B-A7ACFE686B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FC181F-D5A0-4FAC-B23B-A7ACFE686B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FC181F-D5A0-4FAC-B23B-A7ACFE686B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FC181F-D5A0-4FAC-B23B-A7ACFE686B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8C6932-5601-45D6-8F13-9BDEE1C00ADD}
+	EndGlobalSection
+EndGlobal
