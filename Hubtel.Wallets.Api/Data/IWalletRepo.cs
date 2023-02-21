@@ -8,9 +8,6 @@ namespace Hubtel.Wallets.Api.Data
     {
         Task<WalletModel> GetWalletByID(int Id);
         Task<IEnumerable<WalletModel>> GetWallets();
-        IEnumerable<WalletModel> GetWalletsByOwner(string owner);
-        IEnumerable<WalletModel> GetWalletsByAccNum(string accNum);
-
         Task CreateWallet(WalletModel wallet);
         Task DeleteWallet(WalletModel wallet);
         
